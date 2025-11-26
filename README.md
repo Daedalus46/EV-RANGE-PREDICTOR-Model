@@ -52,8 +52,8 @@ The workflow includes:
 ## ▶️ Running Locally
 
 ### 1️⃣ Clone the repository  
-    git clone https://github.com/Daedalus46/XGBoost-Model.git
-    cd XGBoost-Model
+    git clone https://github.com/Daedalus46/EV-RANGE-PREDICTOR-Model.git
+    cd EV-RANGE-PREDICTOR-Model
 
 ### 2️⃣ Install dependencies  
     pip install -r requirements.txt
