@@ -1,5 +1,7 @@
-streamlit
+scikit-learn==1.6.1
+joblib==1.3.2   # optional: match the version you trained with
 pandas
 scikit-learn
 xgboost
-joblib
+
+
